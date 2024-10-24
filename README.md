@@ -19,4 +19,5 @@ Treinamento: Implementa a lógica de treinamento e salva os modelos gerados.
 Referências
 
 Princeton ModelNet:[ ModelNet](https://modelnet.cs.princeton.edu/)
+
 3D GAN Reference: [3D GAN MIT](http://3dgan.csail.mit.edu/)
