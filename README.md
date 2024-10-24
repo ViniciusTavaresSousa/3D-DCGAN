@@ -1,7 +1,6 @@
 # 3D-DCGAN
 
 Este projeto implementa uma Rede Adversarial Generativa Convolucional Tridimensional (3D DCGAN) para gerar modelos 3D a partir de dados de voxels. Utilizando o conjunto de dados Princeton ModelNet, especificamente modelos de aviões, os dados foram normalizados e padronizados antes do treinamento.
-Índice
 
 Descrição do Projeto:
 
